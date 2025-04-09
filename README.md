@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<p align="center">                                              MRTECH EXPERT-𝐌𝐃-𝐕1 
+<p align="center">                                              MR TECH EXPERT-𝐌𝐃-𝐕1 
 
 
 </p>
