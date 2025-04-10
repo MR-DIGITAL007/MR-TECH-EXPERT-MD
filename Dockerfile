@@ -1,25 +1,30 @@
 FROM node:lts-buster
 
+# Install tools
 RUN apt-get update && \
   apt-get install -y \
   ffmpeg \
   imagemagick \
   webp && \
   apt-get upgrade -y && \
-  npm i pm2 -g && \
+  npm install -g pm2 && \
   rm -rf /var/lib/apt/lists/*
-  
-RUN  git clone https://github.com/Mrandbad/ANDBAD-MD-V1  /root/Hans_BOt
-WORKDIR /root/kinghansmd/
 
+# Clone your custom repo
+RUN git clone https://github.com/MR-DIGITAL007/MR-TECH-EXPERT-MD /app
 
+# Set working directory
+WORKDIR /app
 
+# Install dependencies
 COPY package.json .
-RUN npm install pm2 -g
 RUN npm install --legacy-peer-deps
 
+# Copy source files (optional if everything is already in the repo)
 COPY . .
 
+# Port (optional for Heroku but fine to include)
 EXPOSE 5000
 
-CMD ["node", "index.js"]
+# Start with PM2 runtime
+CMD ["pm2-runtime", "index.js"]
