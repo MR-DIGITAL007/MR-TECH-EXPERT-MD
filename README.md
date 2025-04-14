@@ -1,49 +1,94 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+# MR-TECH-EXPERT-MD
 
-<p align="center">                                              MR TECH EXPERT-𝐌𝐃-𝐕1 </p>
+![Logo](https://raw.githubusercontent.com/MR-DIGITAL007/MR-TECH-EXPERT-MD/main/media/logo.jpg)
 
-<p align="center"> 
-  <a href="https://whatsapp.com/channel/0029VajQn6YF1YlPE0XgBC2m">
-    <img alt=Support height="390" src="https://files.catbox.moe/lh5v4o.jpg"> 
-</a>
-</p>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=MRTECH+EXPERT-𝚳𝐃-+𝚳𝚫𝐃𝚵+𝚰𝚴+𝚻𝚫𝚴𝚭𝚫𝚴𝚰𝚫+🇹🇿" alt="Typing SVG" />
-</a>
+> A powerful WhatsApp bot built using MD Baileys. Fully customizable, with auto features, image upload, QR login, and more. Deploy-ready for Heroku or Render.
 
 ---
 
-### SETUP
+## 🚀 Deployment Options
 
-[`FORK`](https://github.com/MR-DIGITAL007/MR-TECH-EXPERT-MD/fork)
+### [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/MR-DIGITAL007/MR-TECH-EXPERT-MD)
 
-[`QR SCANNER`](https://andbad-qr-k71b.onrender.com/qr)
-
-[`PAIRING CODE`](https://andbad-qr-k71b.onrender.com)
-
----
-
-### DEPLOY TO HEROKU
-
-<a href="https://signup.heroku.com">
- <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/>
-</a>
-
-<a href="https://dashboard.heroku.com/new?template=https://github.com/MR-DIGITAL007/MR-TECH-EXPERT-MD">
- <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/>
-</a>
+> Use [Heroku Dashboard](https://dashboard.heroku.com)  
+> New user? [Sign Up for Heroku](https://signup.heroku.com/)
 
 ---
 
-### DEPLOY ON RENDER
+### [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new)
 
-<a href="https://dashboard.render.com/register">
-  <img src="https://img.shields.io/badge/CREATE AN ACCOUNT NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/>
-</a>
+> Use [Render Dashboard](https://dashboard.render.com)  
+> New user? [Sign Up for Render](https://dashboard.render.com/register)
 
-<a href="https://render.com">
-  <img title="Deploy Now" src="https://img.shields.io/badge/DEPLOY NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/>
-</a>
+---
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## 🔗 Essential Links & Resources
+
+- **GitHub Repository:**  
+  [MR-TECH-EXPERT-MD Repo](https://github.com/MR-DIGITAL007/MR-TECH-EXPERT-MD)
+
+- **Owner Contact:**  
+  [Chat on WhatsApp](https://wa.me/message/7WVPYSU7TGH6H1)
+
+- **Official WhatsApp Channel:**  
+  [Join Now](https://whatsapp.com/channel/0029VbA1jdkDp2QAvGIIrL0m)
+
+---
+
+## 🔐 Connect Your Bot
+
+Two easy ways to connect your bot to WhatsApp:
+
+### ✅ Scan QR Code
+1. Run `node index.js`
+2. A QR Code will be generated in terminal
+3. Scan the QR using WhatsApp from your phone
+
+### 🔁 Pair Code
+1. Run `node index.js`
+2. You'll see a Pair Code in the terminal
+3. Go to "Linked Devices" on WhatsApp and enter the Pair Code
+
+---
+
+## ✨ Bot Features
+
+- QR & Pair Code login options  
+- Auto-reconnect and message handling  
+- Media support (images, videos, stickers)  
+- Group moderation tools  
+- Command-based system  
+- Image upload and recognition  
+- Easy configuration and customization  
+- WhatsApp Multi-Device Support  
+- Fork and contribute support
+
+---
+
+## 📂 Important Files
+
+Make sure these files are present in your base setup:
+
+- `index.js`
+- `config.js`
+- `lib/`
+- `media/`
+- `session/`
+- `.env`
+- `package.json`
+
+> Install dependencies using `npm install`
+
+---
+
+## 🧠 Contributors & Stats
+
+[![Forks](https://img.shields.io/github/forks/MR-DIGITAL007/MR-TECH-EXPERT-MD?style=social)](https://github.com/MR-DIGITAL007/MR-TECH-EXPERT-MD/fork)
+[![Stars](https://img.shields.io/github/stars/MR-DIGITAL007/MR-TECH-EXPERT-MD?style=social)](https://github.com/MR-DIGITAL007/MR-TECH-EXPERT-MD/stargazers)
+[![Watchers](https://img.shields.io/github/watchers/MR-DIGITAL007/MR-TECH-EXPERT-MD?style=social)](https://github.com/MR-DIGITAL007/MR-TECH-EXPERT-MD/watchers)
+
+---
+
+## ⚠️ Disclaimer
+
+This project is intended for educational purposes only. The developer is not responsible for any misuse. Use at your own risk and comply with WhatsApp's Terms of Service.
