@@ -3,7 +3,7 @@
 <p align="center">                                              MR TECH EXPERT-𝐌𝐃-𝐕1 </p>
 
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/0029VajQn6YF1YlPE0XgBC2m">
+  <a href= ["](https://whatsapp.com/channel/0029VbA1jdkDp2QAvGIIrL0m">
     <img alt=Support height="390" src="https://files.catbox.moe/lh5v4o.jpg"> 
 </a>
 </p>
